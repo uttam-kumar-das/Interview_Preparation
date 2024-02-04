@@ -11,8 +11,8 @@ public class ReverseString {
 		for(int i=originalString.length()-1;i>0;i--) {
 			reverseString+=charArray[i];
 		}
-		System.out.println("This is a original String :"+originalString);
-		System.out.println("reverseString is :"+reverseString);
+		System.out.println("The original String  is :"+originalString);
+		System.out.println("And the reverse String is :"+reverseString);
 	}
 
 	
